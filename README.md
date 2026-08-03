@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aaparateb24-beep/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Array
+|  |
+| ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aaparateb24-beep/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+## String
+|  |
+| ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aaparateb24-beep/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
